@@ -1,5 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Phelipe+Nascimento+;I'm+33+years+old;I+am+from+Rio+de+Janeiro,+RJ;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<br>
+<br>
+<br>
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhelipeNascimento&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhelipeNascimento&layout=compact&theme=tokyonight)](https://github.com/Samuel-045/github-readme-stats)
